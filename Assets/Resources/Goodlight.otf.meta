@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a9d9fadd7eb411d4aa39c11222e3617c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Goodlight
+  fontNames:
+  - Goodlight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5bc41a18495c5004b9df7f031102e5fc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
